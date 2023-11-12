@@ -1,2 +1,2 @@
 # teacher-site
-personal teacher website ('page') 
+personal teacher website ('page') / practising
