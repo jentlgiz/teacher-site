@@ -1,2 +1,2 @@
 # teacher-site
-Personal teacher website ('page') 
+personal teacher website ('page') 
